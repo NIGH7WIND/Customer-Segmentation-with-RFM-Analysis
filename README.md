@@ -1,2 +1,2 @@
-# Customer-Segmentation-with-RFM-Analysis
-Clustering customers into segments based on Recency, Frequency and Monetary
+# Advanced Customer-Profiling-with-RFM-Analysis
+Profiling customers of each cluster into segments based on Recency, Frequency and Monetary
